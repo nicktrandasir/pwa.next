@@ -1,11 +1,13 @@
 {
-    "theme_color": "#c6bbb1",
-    "background_color": "#69635c",
-    "display": "standalone",
-    "scope": "/",
+    "name": "Next.js PWA",
+    "short_name": "Next PWA",
+
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
     "start_url": "/",
-    "name": "PWA with Next.js",
-    "short_name": "PWA with Next.js",
+    "display": "standalone",
+    "orientation": "portrait",
+
     "icons": [
         {
             "src": "/icon-192x192.png",
